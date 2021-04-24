@@ -1,0 +1,105 @@
+<html>
+<head>
+<title> My Website 2 </title> 
+ <link rel="stylesheet" href="Style.css"> <link href="https://fonts.googleapis.com/css?
+family=Cinzel+Decorative&display=swap" rel="stylesheet"> <link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://font.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap" rel="stylesheet">
+    </head>
+    
+    <body>
+    <ul class="Home">
+        <li class="links">  <a href="#welcome">Home </a> </li>
+        <li class="links">  <a href="#Videos">Videos </a>    </li>
+        <li class="links">   <a href="#Work">Work  </a>   </li>
+        <li class="links">   <a href="#Writings">Writings </a>   </li>
+        <li class="links">   <a href="#Contacts">Contacts   </a>    </li>
+        
+        </ul>
+        
+        
+
+       
+    <section id="welcome">
+    <div class="parallax-inner">
+      <img src="http://theastrologypodcast.com/wp-content/uploads/2015/12/ancient-astrology-book-hd.jpg">   
+        <h1> My hobby is to read books</h1>
+          
+         </div>
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        </section>
+        <section id="bio">
+         <h1> Hi! </h1>
+            <div class="line"></div>
+            <p> Reading is a very good habit that one needs to develop in life. Good books can inform you, enlighten you and lead you in the right direction. There is no better companion than a good book. Reading is important because it is good for your overall well-being. Once you start reading, you experience a whole new world. When you start loving the habit of reading you eventually get addicted to it. Reading develops language skills and vocabulary. Reading books is also a way to relax and reduce stress. It is important to read a good book at least for a few minutes each day to stretch the brain muscles for healthy functioning.           
+
+            
+            
+            </p>
+        
+        </section>
+        <section id="Videos">
+        <h1> Videos </h1>
+        <br> 
+         <iframe width="857" height="482" src="https://www.youtube.com/embed/mbCJqdrzwcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        </section>
+        
+        
+        
+        
+        
+        
+        
+       
+    
+    
+    
+    
+    
+    
+    
+    
+    </body>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
